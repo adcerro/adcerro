@@ -2,7 +2,7 @@
 - 👀 I’m interested in bread
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on simple stuff
-- 📫 How to reach me telegram(@alandfc)
+- 📫 How to reach me telegram [(@alandfc)](https://t.me/alandfc)
 
 <!---
 adcerro/adcerro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
