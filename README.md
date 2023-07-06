@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adcerro
-- 👀 I’m interested in bread
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on simple stuff
+- 👀 I’m interested in multiplatform development
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on front-end stuff
 - 📫 How to reach me: telegram [(@alandfc)](https://t.me/alandfc)
 
 <!---
