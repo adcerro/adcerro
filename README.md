@@ -10,12 +10,18 @@
   </div>
 </html>
 
-- 👋 Hi, I’m @adcerro
+---
+### :man_technologist: About Me :
+👋 Hi, I’m @adcerro
 - 👀 I’m interested in multiplatform development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on front-end stuff
-- 📫 How to reach me: telegram [(@alandfc)](https://t.me/alandfc)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/alan-daniel-florez-cerro)
+---
 
+### :hammer_and_wrench: Languages and Tools :
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <!---
 adcerro/adcerro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
