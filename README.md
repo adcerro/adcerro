@@ -4,7 +4,7 @@
     <!--- via GIPHY -->
   </div>
   <div id="badge" align="center">
-    <a href="www.linkedin.com/in/alan-danielflorez-cerro">
+    <a href="https://www.linkedin.com/in/alan-daniel-florez-cerro">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
   </div>
