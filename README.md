@@ -13,15 +13,17 @@
 ---
 ### :man_technologist: About Me :
 👋 Hi, I’m @adcerro
-- 👀 I’m interested in multiplatform development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on front-end stuff
+- 👀 I’m interested in multiplatform development and IT Support.
+- 🌱 I’m currently learning IT Support.
+- 💞️ I’m looking to collaborate on Powershell or Bash scripts.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/alan-daniel-florez-cerro)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
 <!---
 adcerro/adcerro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
